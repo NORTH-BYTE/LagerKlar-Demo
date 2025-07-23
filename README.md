@@ -33,5 +33,5 @@ Kildekoden deles ikke, da projektet bruges til videreudvikling og sikkerhedstest
 
 ## 📩 Kontakt
 **Navn:** [Dit navn]  
-**Email:** [din@email.dk]  
+**Email:** [northbytesolutions@gmail.com]  
 **Portfolio:** [https://northbytesolutions.carrd.co](https://northbytesolutions.carrd.co)
