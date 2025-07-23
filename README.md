@@ -67,6 +67,6 @@ Hvis du ønsker at se systemet i brug, tilbyder jeg gerne en live gennemgang ell
 ## 📩 Kontakt
 
 - **Navn:** NorthByte solutions 
-- **Email:** northbytesolutions@gmail.com
+- **Email:** [northbytesolutions@gmail.com](mailto:northbytesolutions@gmail.com)
 - **Portfolio:** [https://northbytesolutions.carrd.co](https://northbytesolutions.carrd.co)
-- **LinkedIn:** [Se min profil] (https://www.linkedin.com/in/thomas-h%C3%B8jlund-myllerup-b1a584285/)
+- **LinkedIn:** https://www.linkedin.com/in/thomas-h%C3%B8jlund-myllerup-b1a584285/
