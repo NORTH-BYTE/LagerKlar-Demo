@@ -1,4 +1,4 @@
-# 🏷️ Lagerstyringssystem – Northbyte Solutions
+# 🏷️ LagerKlar – Northbyte Solutions
 
 Et internt lagerstyringssystem udviklet i ASP.NET Core MVC og MSSQL. Projektet er fokuseret på nem håndtering af produkter, lagerbeholdning og lav-beholdningsmonitorering.
 
