@@ -69,4 +69,4 @@ Hvis du ønsker at se systemet i brug, tilbyder jeg gerne en live gennemgang ell
 - **Navn:** NorthByte solutions 
 - **Email:** northbytesolutions@gmail.com
 - **Portfolio:** [https://northbytesolutions.carrd.co](https://northbytesolutions.carrd.co)
-- **LinkedIn:** [https://www.linkedin.com/in/thomas-h%C3%B8jlund-myllerup-b1a584285/](Thomas Højlund Myllerup)
+- **LinkedIn:** [https://www.linkedin.com/in/thomas-h%C3%B8jlund-myllerup-b1a584285/] (Thomas Højlund Myllerup)
