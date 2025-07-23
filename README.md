@@ -54,16 +54,16 @@ Dette projekt er bygget som en teknisk øvelse og showcasesystem med fokus på:
 ![Dashboard](media/dashboard.png)
 
 #### 📉 Lav beholdning & genopfyldning
-![Lav beholdning](media/Lavbeholdning og produkt genopfyldning.png)
+![Lav beholdning](media/Lavbeholdning-genopfyldning.png)
 
 #### ➕ Opret produkt og lagerbeholdning
-![Opret produkt](media/Opret Produkt.png)
+![Opret produkt](media/Opret-Produkt.png)
 
 #### 📋 Produktoversigt
-![Produkter](media/Produkter (oversigt).png)
+![Produkter](media/Produkter-oversigt.png)
 
 #### 🛠️ Redigering af produkt og lager
-![Rediger produkt](media/Rediger produkt samt genopfyldning.png)
+![Rediger produkt](media/Rediger-produkt-genopfyldning.png)
 
 
 ---
