@@ -2,12 +2,32 @@
 
 Et internt lagerstyringssystem udviklet i ASP.NET Core MVC og MSSQL. Projektet er fokuseret på nem håndtering af produkter, lagerbeholdning og lav-beholdningsmonitorering.
 
-## 🔧 Teknologistak
-- ASP.NET Core MVC (.NET 7)
-- Entity Framework Core
-- Microsoft SQL Server
-- JavaScript (fetch API)
-- Bootstrap 5
+---
+
+## 🚀 Overblik
+
+Dette projekt er bygget som en teknisk øvelse og showcasesystem med fokus på:
+- Klar arkitektur (lagdeling)
+- Effektiv datahåndtering (Dapper & SQL)
+- Automatisk opdatering af lagerstatus
+- Brugervenlighed og UI/UX
+
+---
+
+### ⚙️ Teknologistak
+
+- **ASP.NET Core Web API** – Backend-API til forretningslogik og datahåndtering  
+- **ASP.NET Core MVC (Web App)** – Frontend bygget med Razor Views og klassisk MVC-struktur  
+- **Microsoft SQL Server** – Relationel database til produkt- og lagerdata  
+- **Dapper** – Lightweight ORM til direkte og effektiv databaseadgang  
+- **SQLConnection** – Direkte styring af SQL-forbindelser og manuelle queries  
+- **RestSharp** – HTTP-klient til integration mellem API’er og systemdele  
+- **AutoMapper** – Automatisk mapping mellem domænemodeller og DTO’er  
+- **System.Text.Json (JsonSerializer)** – Håndtering af JSON i API-laget  
+- **Bootstrap 5** – UI-framework til responsive og moderne webgrænseflader  
+- **JavaScript (Fetch API)** – Asynkrone kald til API (bl.a. polling for lav lagerbeholdning)
+
+---
 
 ## 📦 Funktioner
 - CRUD for produkter og lager
@@ -16,6 +36,18 @@ Et internt lagerstyringssystem udviklet i ASP.NET Core MVC og MSSQL. Projektet e
 - Lagerlokation og beholdningsstyring
 - Dynamisk UI – uden side-refresh
 
+---
+
+### 🖥️ Funktioner
+
+- ✅ CRUD for produkter og lager
+- ✅ Lagerlokation og minimumslager
+- ✅ Formularhjælp og validering
+- ✅ Brugervenlig struktur og layout
+- ✅ Klar adskillelse mellem API og visning
+
+---
+
 ## 📸 Screenshots
 
 > (Indsæt billeder i repoet – fx i en `media/`-mappe)
@@ -23,15 +55,17 @@ Et internt lagerstyringssystem udviklet i ASP.NET Core MVC og MSSQL. Projektet e
 ![Produktoprettelse](media/opret-produkt.png)
 ![Lav lager notifikation](media/lav-lager-alert.png)
 
-## 🎥 Demo
-[![Se video-demo](media/demo-thumbnail.png)](https://link-til-video.com)
+---
 
-> Se systemet i brug på under 2 minutter!
+### 🔒 Kildekode & adgang
 
-## 🔒 Hvorfor er koden ikke offentlig?
-Kildekoden deles ikke, da projektet bruges til videreudvikling og sikkerhedstests. Jeg tilbyder dog gerne en demo eller teknisk walkthrough ved interesse – kontakt mig direkte.
+Kildekoden er ikke offentliggjort, da systemet bruges som intern øvelse og mulig fremtidig udvidelse.  
+Hvis du ønsker at se systemet i brug, tilbyder jeg gerne en live gennemgang eller demo ved forespørgsel.
+
+---
 
 ## 📩 Kontakt
-**Navn:** [Dit navn]  
-**Email:** [northbytesolutions@gmail.com]  
+**Navn:** NorthByte solutions 
+**Email:** northbytesolutions@gmail.com
 **Portfolio:** [https://northbytesolutions.carrd.co](https://northbytesolutions.carrd.co)
+**LinkedIn:** [[Link til din profil] *(valgfrit)*](https://www.linkedin.com/in/thomas-h%C3%B8jlund-myllerup-b1a584285/)
