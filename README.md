@@ -48,12 +48,23 @@ Dette projekt er bygget som en teknisk øvelse og showcasesystem med fokus på:
 
 ---
 
-## 📸 Screenshots
+### 📸 Screenshots
 
-> (Indsæt billeder i repoet – fx i en `media/`-mappe)
+#### 🧭 Dashboard & lagerstatus
+![Dashboard](media/dashboard.png)
 
-![Produktoprettelse](media/opret-produkt.png)
-![Lav lager notifikation](media/lav-lager-alert.png)
+#### 📉 Lav beholdning & genopfyldning
+![Lav beholdning](media/Lavbeholdning og produkt genopfyldning.png)
+
+#### ➕ Opret produkt og lagerbeholdning
+![Opret produkt](media/Opret Produkt.png)
+
+#### 📋 Produktoversigt
+![Produkter](media/Produkter (oversigt).png)
+
+#### 🛠️ Redigering af produkt og lager
+![Rediger produkt](media/Rediger produkt samt genopfyldning.png)
+
 
 ---
 
