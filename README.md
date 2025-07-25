@@ -29,15 +29,6 @@ Dette projekt er bygget som en teknisk øvelse og showcasesystem med fokus på:
 
 ---
 
-## 📦 Funktioner
-- CRUD for produkter og lager
-- Automatisk polling for lav lagerbeholdning
-- Brugervenlig formular med validering og hints
-- Lagerlokation og beholdningsstyring
-- Dynamisk UI – uden side-refresh
-
----
-
 ### 🖥️ Funktioner
 
 - ✅ CRUD for produkter og lager
