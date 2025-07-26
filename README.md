@@ -42,22 +42,53 @@ Dette projekt er bygget som en teknisk øvelse og showcasesystem med fokus på:
 ---
 
 ### 📸 Screenshots
+### Dashboard
+- Få et hurtigt overblik over antal produkter og nødvendige genopfyldninger.
+- Se de seneste opdateringer i lagerbeholdningen.
 
-#### 🧭 Dashboard & lagerstatus
-![Dashboard](media/dashboard.png)
+![Dashboard](media/Dashboard.png)
 
-#### 📉 Lav beholdning & genopfyldning
-![Lav beholdning](media/lavbeholdning-genopfyldning.png)
+---
 
-#### ➕ Opret produkt og lagerbeholdning
+### Lagerdetaljer
+- Se detaljer for specifikke produkter med lagerantal, placering og status for lav beholdning.
+
+![Lagerdetaljer](media/Lagerdetaljer.png)
+
+---
+
+### Opret produkt
+- Udfyld formular med navn, beskrivelse, leverandør, pris, kategori og lagerplacering.
+
 ![Opret produkt](media/opret-produkt.png)
 
-#### 📋 Produktoversigt
-![Produkter](media/produkter-oversigt.png)
+---
 
-#### 🛠️ Redigering af produkt og lager
+### Produktdetaljer
+- Få et komplet overblik over produktinformation, lagerstatus og historik.
+
+![Produktdetaljer](media/Produktdetaljer.png)
+
+---
+
+### Produktoversigt
+- Listevisning af alle produkter med mulighed for at se, redigere eller slette dem.
+
+![Produktoversigt](media/Produktoversigt.png)
+
+---
+
+### Rediger produkt
+- Opdater information og lagerstatus direkte fra produktkortet.
+
 ![Rediger produkt](media/rediger-produkt-genopfyldning.png)
 
+---
+
+### Slet produkt
+- Bekræft og slet produkter permanent.
+
+![Slet produkt](media/slet-produkt.png)
 
 ---
 
