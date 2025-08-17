@@ -1,12 +1,12 @@
 ![LagerKlar Logo](media/lagerklar-logo.png)
 
-# 🏷️ LagerKlar – Northbyte Solutions
+# 📦 LagerKlar – Northbyte Solutions
 
 Et internt lagerstyringssystem udviklet i ASP.NET Core MVC og MSSQL. Projektet er fokuseret på nem håndtering af produkter, lagerbeholdning og lav-beholdningsmonitorering.
 
 ---
 
-## 🚀 Overblik
+## Overblik
 
 Dette projekt er bygget som en teknisk øvelse og showcasesystem med fokus på:
 - Klar arkitektur (lagdeling)
@@ -14,34 +14,20 @@ Dette projekt er bygget som en teknisk øvelse og showcasesystem med fokus på:
 - Automatisk opdatering af lagerstatus
 - Brugervenlighed og UI/UX
 
----
-
-### ⚙️ Teknologistak
-
-- **ASP.NET Core Web API** – Backend-API til forretningslogik og datahåndtering  
-- **ASP.NET Core MVC (Web App)** – Frontend bygget med Razor Views og klassisk MVC-struktur  
-- **Microsoft SQL Server** – Relationel database til produkt- og lagerdata  
-- **Dapper** – Lightweight ORM til direkte og effektiv databaseadgang  
-- **SQLConnection** – Direkte styring af SQL-forbindelser og manuelle queries  
-- **RestSharp** – HTTP-klient til integration mellem API’er og systemdele  
-- **AutoMapper** – Automatisk mapping mellem domænemodeller og DTO’er  
-- **System.Text.Json (JsonSerializer)** – Håndtering af JSON i API-laget  
-- **Bootstrap 5** – UI-framework til responsive og moderne webgrænseflader  
-- **JavaScript (Fetch API)** – Asynkrone kald til API (bl.a. polling for lav lagerbeholdning)
 
 ---
 
-### 🖥️ Funktioner
-
-- ✅ CRUD for produkter og lager
-- ✅ Lagerlokation og minimumslager
-- ✅ Formularhjælp og validering
-- ✅ Brugervenlig struktur og layout
-- ✅ Klar adskillelse mellem API og visning
+### Formål & Funktioner
+Dette projekt har til formål at:
+- Forenkle daglige lageropgaver som optælling samt give et tydeligt billede af lagerbeholdningen.
+- Mindske manuelle fejl gennem validering og automatiske tjek, der forhindre fejl, før de sker.
+- Gøre brugeroplevelsen konsekvent og effektiv med ensartede mønstre, tydelige beskeder og god tilgængelighed.
+- Skabe konkret værdi for små og nyopstartede virksomheder, der primært mangler et overblik deres varer.
+- Skræddersys efter behov, så løsningen kan tilpasses den enkelte virksomhed.
 
 ---
 
-### 📸 Screenshots
+### Screenshots
 ### Dashboard
 - Få et hurtigt overblik over antal produkter og nødvendige genopfyldninger.
 - Se de seneste opdateringer i lagerbeholdningen.
